@@ -26,4 +26,10 @@ Along the development and towards the delivery, you'll see different techniques 
 
 ### _Welcome to the future!_
 
+<h4> Technical </h4>
+
+<ul> 
+  <li> To see the website please download the folder and run _python local_app.py_ file in your Visual Studio Code </li>
+  
+  </ul>
 
