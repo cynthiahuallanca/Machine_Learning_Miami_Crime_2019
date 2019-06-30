@@ -1,7 +1,7 @@
 <h2 align="center">
   Maimi Crime rate prediction for July 2019, using Machine Learning
 </h2> 
-(Miami Crime Website)[http://18.216.86.206:5000/]
+[Miami Crime Website](http://18.216.86.206:5000/)
 
 ![alt text](/Resources/Miami-Dade%20police%20car.jpg)
 
