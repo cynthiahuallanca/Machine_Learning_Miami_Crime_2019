@@ -29,9 +29,9 @@ Along the development and towards the delivery, you'll see different techniques 
 <h4> Technical </h4>
 
 <ul> 
-  <li> To see the website please download the folder and run *python local_app.py* file in your Visual Studio Code. </li>
+  <li> To see the website please download the folder and run *python local_app.py* file in your Visual Studio Code from HTML folder. </li>
   <li> To run the ipynb, do it by order. Second file will take around 3 hours because has incorporated API request to extrac latitude en longitude. </li>
-  <li> If you want to skip the API, you can run file named </li>
+  <li> If you want to skip the API, you can run file named "2_Transform_for_ML_part1.ipynb"</li>
   
   </ul>
 
