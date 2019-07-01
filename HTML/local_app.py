@@ -46,23 +46,8 @@ def homeless():
 @app.route("/machinelng")
 def machinelng():
     
-    stationarity = open("Resources/stationarity.txt", "r")    
-    results = stationarity.read()
-    i=0
-    results_list = {}
-    results_array =[]
-    results_array = results.split('\n')
-    for element in results_array: 
-        print('element', element)
-        results_list.update({element:str(i)})
-        i += 1                     
-        
-    res = {element for element in results_array} 
-#    print('res', results_list)
     
-    stationarity.close()
-    
-    return render_template("machinelng.html",  results=results_list)
+    return render_template("machinelng.html")
 
 @app.route("/conclusion")
 def conclusion():
